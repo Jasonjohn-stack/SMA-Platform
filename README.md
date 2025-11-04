@@ -1,0 +1,2 @@
+# SMA-Platform
+Platform Database
